@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\08.HandsofCards\bin\Debug\08.HandsofCards.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\08.HandsofCards\bin\Debug\08.HandsofCards.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\08.HandsofCards\bin\Debug\08.HandsofCards.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\08.HandsofCards\obj\Debug\08.HandsofCards.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\08.HandsofCards\obj\Debug\08.HandsofCards.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\08.HandsofCards\obj\Debug\08.HandsofCards.pdb

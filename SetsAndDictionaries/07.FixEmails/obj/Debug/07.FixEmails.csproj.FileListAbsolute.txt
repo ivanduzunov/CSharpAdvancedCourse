@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\07.FixEmails\bin\Debug\07.FixEmails.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\07.FixEmails\bin\Debug\07.FixEmails.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\07.FixEmails\obj\Debug\07.FixEmails.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\07.FixEmails\obj\Debug\07.FixEmails.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\07.FixEmails\obj\Debug\07.FixEmails.pdb

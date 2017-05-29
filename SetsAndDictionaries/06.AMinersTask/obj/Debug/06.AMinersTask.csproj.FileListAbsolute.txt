@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\06.AMinersTask\bin\Debug\06.AMinersTask.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\06.AMinersTask\obj\Debug\06.AMinersTask.pdb

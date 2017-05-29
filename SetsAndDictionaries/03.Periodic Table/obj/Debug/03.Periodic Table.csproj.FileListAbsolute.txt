@@ -1,0 +1,5 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\03.Periodic Table\bin\Debug\03.Periodic Table.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\03.Periodic Table\bin\Debug\03.Periodic Table.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\03.Periodic Table\bin\Debug\03.Periodic Table.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\03.Periodic Table\obj\Debug\03.Periodic Table.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\03.Periodic Table\obj\Debug\03.Periodic Table.pdb

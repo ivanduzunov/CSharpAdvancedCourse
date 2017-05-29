@@ -1,0 +1,5 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\02.SimpleCalculator\bin\Debug\02.SimpleCalculator.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\02.SimpleCalculator\obj\Debug\02.SimpleCalculator.pdb

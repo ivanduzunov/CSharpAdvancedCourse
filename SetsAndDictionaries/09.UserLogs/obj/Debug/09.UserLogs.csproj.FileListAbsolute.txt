@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\09.UserLogs\bin\Debug\09.UserLogs.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\09.UserLogs\bin\Debug\09.UserLogs.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\09.UserLogs\bin\Debug\09.UserLogs.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\09.UserLogs\obj\Debug\09.UserLogs.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\09.UserLogs\obj\Debug\09.UserLogs.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\09.UserLogs\obj\Debug\09.UserLogs.csprojResolveAssemblyReference.cache

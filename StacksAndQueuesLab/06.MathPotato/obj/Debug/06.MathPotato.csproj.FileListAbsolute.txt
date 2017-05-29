@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\06.MathPotato\bin\Debug\06.MathPotato.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\06.MathPotato\bin\Debug\06.MathPotato.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\06.MathPotato\bin\Debug\06.MathPotato.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\06.MathPotato\obj\Debug\06.MathPotato.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\06.MathPotato\obj\Debug\06.MathPotato.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\06.MathPotato\obj\Debug\06.MathPotato.pdb

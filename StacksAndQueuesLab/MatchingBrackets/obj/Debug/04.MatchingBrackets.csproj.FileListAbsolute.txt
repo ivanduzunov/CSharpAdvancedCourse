@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\MatchingBrackets\bin\Debug\MatchingBrackets.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\MatchingBrackets\bin\Debug\MatchingBrackets.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\MatchingBrackets\bin\Debug\MatchingBrackets.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\MatchingBrackets\obj\Debug\04.MatchingBrackets.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\MatchingBrackets\obj\Debug\MatchingBrackets.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\StacksAndQueuesLab\MatchingBrackets\obj\Debug\MatchingBrackets.pdb

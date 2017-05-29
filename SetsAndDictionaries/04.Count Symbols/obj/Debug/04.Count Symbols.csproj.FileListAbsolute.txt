@@ -1,0 +1,5 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\04.Count Symbols\bin\Debug\04.Count Symbols.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\04.Count Symbols\bin\Debug\04.Count Symbols.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\04.Count Symbols\bin\Debug\04.Count Symbols.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\04.Count Symbols\obj\Debug\04.Count Symbols.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\SetsAndDictionaries\04.Count Symbols\obj\Debug\04.Count Symbols.pdb

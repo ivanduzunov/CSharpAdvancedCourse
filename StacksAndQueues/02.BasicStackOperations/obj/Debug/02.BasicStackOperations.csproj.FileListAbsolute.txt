@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\StacksAndQueues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\StacksAndQueues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
+c:\users\mihail\documents\visual studio 2017\Projects\StacksAndQueues\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\StacksAndQueues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\StacksAndQueues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
+c:\users\mihail\documents\visual studio 2017\Projects\StacksAndQueues\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb
