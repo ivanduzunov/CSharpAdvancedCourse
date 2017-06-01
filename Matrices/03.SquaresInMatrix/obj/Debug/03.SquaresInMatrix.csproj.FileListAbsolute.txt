@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\Matrices\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\Matrices\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.exe
+c:\users\mihail\documents\visual studio 2017\Projects\Matrices\03.SquaresInMatrix\bin\Debug\03.SquaresInMatrix.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\Matrices\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\Matrices\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.exe
+c:\users\mihail\documents\visual studio 2017\Projects\Matrices\03.SquaresInMatrix\obj\Debug\03.SquaresInMatrix.pdb
