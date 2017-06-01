@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\04.PascalTriangle\bin\Debug\04.PascalTriangle.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\04.PascalTriangle\bin\Debug\04.PascalTriangle.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\04.PascalTriangle\bin\Debug\04.PascalTriangle.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\04.PascalTriangle\obj\Debug\04.PascalTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\04.PascalTriangle\obj\Debug\04.PascalTriangle.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\04.PascalTriangle\obj\Debug\04.PascalTriangle.pdb

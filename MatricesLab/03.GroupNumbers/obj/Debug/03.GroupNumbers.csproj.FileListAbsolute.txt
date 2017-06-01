@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\03.GroupNumbers\bin\Debug\03.GroupNumbers.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\MatricesLab\03.GroupNumbers\obj\Debug\03.GroupNumbers.pdb

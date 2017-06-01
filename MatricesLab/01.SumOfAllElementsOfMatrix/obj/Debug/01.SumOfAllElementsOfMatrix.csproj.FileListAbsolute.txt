@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\01.SumOfAllElementsOfMatrix\bin\Debug\01.SumOfAllElementsOfMatrix.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\01.SumOfAllElementsOfMatrix\bin\Debug\01.SumOfAllElementsOfMatrix.exe
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\01.SumOfAllElementsOfMatrix\bin\Debug\01.SumOfAllElementsOfMatrix.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\01.SumOfAllElementsOfMatrix\obj\Debug\01.SumOfAllElementsOfMatrix.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\01.SumOfAllElementsOfMatrix\obj\Debug\01.SumOfAllElementsOfMatrix.exe
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\01.SumOfAllElementsOfMatrix\obj\Debug\01.SumOfAllElementsOfMatrix.pdb

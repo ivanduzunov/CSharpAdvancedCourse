@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\02.SquareWithMaximumSum\bin\Debug\02.SquareWithMaximumSum.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\02.SquareWithMaximumSum\bin\Debug\02.SquareWithMaximumSum.exe
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\02.SquareWithMaximumSum\bin\Debug\02.SquareWithMaximumSum.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\02.SquareWithMaximumSum\obj\Debug\02.SquareWithMaximumSum.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\02.SquareWithMaximumSum\obj\Debug\02.SquareWithMaximumSum.exe
+c:\users\mihail\documents\visual studio 2017\Projects\MatricesLab\02.SquareWithMaximumSum\obj\Debug\02.SquareWithMaximumSum.pdb
