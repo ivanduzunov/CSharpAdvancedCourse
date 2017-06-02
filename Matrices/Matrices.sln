@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DiagonalDifference", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SquaresInMatrix", "03.SquaresInMatrix\03.SquaresInMatrix.csproj", "{1F720273-1725-4A3F-BC77-EF6067111E45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.MaximalSum", "04.MaximalSum\04.MaximalSum.csproj", "{53084564-D93A-4879-9638-CD7334ED5F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RubiksMatrix", "05.RubiksMatrix\05.RubiksMatrix.csproj", "{AF378416-FB1E-4DD7-9049-61195E65DAE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{1F720273-1725-4A3F-BC77-EF6067111E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F720273-1725-4A3F-BC77-EF6067111E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F720273-1725-4A3F-BC77-EF6067111E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53084564-D93A-4879-9638-CD7334ED5F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53084564-D93A-4879-9638-CD7334ED5F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53084564-D93A-4879-9638-CD7334ED5F92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53084564-D93A-4879-9638-CD7334ED5F92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF378416-FB1E-4DD7-9049-61195E65DAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF378416-FB1E-4DD7-9049-61195E65DAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF378416-FB1E-4DD7-9049-61195E65DAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF378416-FB1E-4DD7-9049-61195E65DAE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
