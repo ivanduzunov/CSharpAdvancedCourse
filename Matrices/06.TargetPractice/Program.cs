@@ -24,12 +24,14 @@ namespace _06.TargetPractice
             FillTheStairs(matrix, n, m, snake);
 
             CleanAlgoritm(matrix, n, impactRow, impactColumn, impactRadius);
-            Console.WriteLine();
+
+            FallingDown(matrix);
+
             for (int i = 0; i < matrix.GetLength(0); i++)
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    Console.Write(matrix[i, j] + " ");
+                    Console.Write(matrix[i, j]);
                 }
                 Console.WriteLine();
             }
@@ -73,30 +75,37 @@ namespace _06.TargetPractice
 
         }
 
-        public static void CleanAlgoritm(char[,] matrix, int n, int row, int column, int radius)
+        public static void CleanAlgoritm(char[,] matrix, int n, int therow, int column, int radius)
         {
-            for (int i = 0; i < matrix.GetLength(0); i++)
+            for (int row = 0; row < matrix.GetLength(0); row++)
+                for (int col = 0; col < matrix.GetLength(1); col++)
+                {
+                    bool isWithinRange = Math.Sqrt(Math.Pow(Math.Abs(therow - row), 2)
+                                                   + Math.Pow(Math.Abs(column - col), 2)) <= radius;
+                    if (isWithinRange)
+                        matrix[row, col] = ' ';
+                }
+
+        }
+
+        public static void FallingDown(char[,] matrix)
+        {
+            for (int i = matrix.GetLength(0) - 1; i >= 0; i--)
             {
                 for (int j = 0; j < matrix.GetLength(1); j++)
                 {
-                    if (i <= matrix.GetLength(0) / 2)
+                    if (matrix[i, j] == ' ')
                     {
-                        if ((i == row && (j > matrix.GetLength(1) - (2 * radius + 2) && j < column + radius + 1)) ||
-                            ((i > matrix.GetLength(0) - (2 * radius + 2) && (j > matrix.GetLength(1) - ((radius * 2) + i)) && ((i < row + radius + 1 && (j < row + radius + i))))))
+                        for (int k = i - 1; k >= 0; k--)
                         {
-                            matrix[i, j] = '*';
+                            if (matrix[k, j] != ' ')
+                            {
+                                matrix[i, j] = matrix[k, j];
+                                matrix[k, j] = ' ';
+                                break;
+                            }
                         }
                     }
-                    else
-                    {
-                        int counter = 1;
-                        if (i < row + radius + 1 && ((j <= matrix.GetLength(1) - (radius * 2 - counter * 2))))
-                        {
-                            matrix[i, j] = '*';
-                        }
-                        counter++;
-                    }
-
                 }
             }
         }
