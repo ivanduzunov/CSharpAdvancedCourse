@@ -120,18 +120,68 @@ namespace _08.RadioactiveBunnies
                         }
                         break;
                 }
-                
 
-                SpreadBunnies(liar, killed);
-                if (killed)
+
+                List<int> rows = new List<int>();
+                List<int> cols = new List<int>();
+
+                for (int rowIndex = 0; rowIndex < liar.Length; rowIndex++)
+                {
+                    for (int j = 0; j < liar[rowIndex].Length; j++)
+                    {
+                        if (liar[rowIndex][j] == 'B')
+                        {
+                            rows.Add(rowIndex);
+                            cols.Add(j);
+                        }
+                    }
+                }
+
+                for (int rowIndex = 0; rowIndex < rows.Count; rowIndex++)
+                {
+                    int row = rows[rowIndex];
+                    int col = cols[rowIndex];
+
+                    if (col > 0)
+                    {
+                        if (liar[row][col - 1] == 'P')
+                        {
+                            killed = true;
+                        }
+                        liar[row][col - 1] = 'B';
+                    }
+                    if (col < liar[row].Length - 1)
+                    {
+                        if (liar[row][col + 1] == 'P')
+                        {
+                            killed = true;
+                        }
+                        liar[row][col +1] = 'B';
+                    }
+                    if (row > 0)
+                    {
+                        if (liar[row - 1][col] == 'P')
+                        {
+                            killed = true;
+                        }
+                        liar[row-1][col] = 'B';
+                    }
+
+                    if (row < liar.Length - 1)
+                    {
+                        if (liar[row + 1][col] == 'P')
+                        {
+                            killed = true;
+                        }
+                        liar[row+1][col] = 'B';
+                    }
+                }
+
+                if (killed || win)
                 {
                     break;
                 }
-                if (win)
-                {
-                    break;
-                }
-
+              
             }
 
 
@@ -188,84 +238,8 @@ namespace _08.RadioactiveBunnies
             return result;
         }
 
-        public static void SpreadBunnies(char[][] matrix, bool kill)
-        {
-            
-            List<int> rows = new List<int>();
-            List<int> cols = new List<int>();
+       
 
-            for (int i = 0; i < matrix.Length; i++)
-            {
-                for (int j = 0; j < matrix[i].Length; j++)
-                {
-                    if (matrix[i][j] == 'B')
-                    {
-                        rows.Add(i);
-                        cols.Add(j);
-                    }
-                }
-            }
-
-            for (int i = 0; i < rows.Count; i++)
-            {
-                int row = rows[i];
-                int col = cols[i];
-
-                if (col > 0)
-                {
-                    
-                    if (matrix[row][col - 1] == 'P')
-                    {
-
-                        kill = true;
-                    }
-                    else
-                    {
-                        matrix[row][col - 1] = 'B';
-                    }
-                }
-                if (col < matrix[row].Length - 1)
-                {
-                    if (matrix[row][col + 1] == 'P')
-                    {
-                        kill = true;
-
-                    }
-                    else
-                    {
-                        matrix[row][col + 1] = 'B';
-                    }
-                }
-                if (row > 0)
-                {
-                    if (matrix[row - 1][col] == 'P')
-                    {
-                        kill = true;
-
-                    }
-                    else
-                    {
-                        matrix[row - 1][col] = 'B';
-                    }
-                }
-
-                if (row < matrix.Length - 1)
-                {
-                    if (matrix[row + 1][col] == 'P')
-                    {
-                        kill = true;
-
-                    }
-                    else
-                    {
-                        matrix[row + 1][col] = 'B';
-                        
-                    }
-                }
-               
-                
-            }
-
-        }
+        
     }
 }
