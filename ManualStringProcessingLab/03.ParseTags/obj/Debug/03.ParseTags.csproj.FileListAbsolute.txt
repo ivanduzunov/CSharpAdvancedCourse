@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessingLab\03.ParseTags\bin\Debug\03.ParseTags.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessingLab\03.ParseTags\obj\Debug\03.ParseTags.pdb
