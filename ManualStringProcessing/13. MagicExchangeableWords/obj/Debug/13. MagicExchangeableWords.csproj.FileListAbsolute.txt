@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\13. MagicExchangeableWords\bin\Debug\_13.MagicExchangeableWords.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\13. MagicExchangeableWords\bin\Debug\_13.MagicExchangeableWords.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\13. MagicExchangeableWords\bin\Debug\_13.MagicExchangeableWords.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\13. MagicExchangeableWords\obj\Debug\13. MagicExchangeableWords.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\13. MagicExchangeableWords\obj\Debug\_13.MagicExchangeableWords.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\13. MagicExchangeableWords\obj\Debug\_13.MagicExchangeableWords.pdb

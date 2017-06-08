@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\06.CountSubstringOccurrences\bin\Debug\06.CountSubstringOccurrences.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\06.CountSubstringOccurrences\bin\Debug\06.CountSubstringOccurrences.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\06.CountSubstringOccurrences\bin\Debug\06.CountSubstringOccurrences.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\06.CountSubstringOccurrences\obj\Debug\06.CountSubstringOccurrences.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\06.CountSubstringOccurrences\obj\Debug\06.CountSubstringOccurrences.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\06.CountSubstringOccurrences\obj\Debug\06.CountSubstringOccurrences.pdb

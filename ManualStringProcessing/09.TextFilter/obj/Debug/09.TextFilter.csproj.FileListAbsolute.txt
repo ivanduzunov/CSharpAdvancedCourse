@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\09.TextFilter\bin\Debug\09.TextFilter.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\09.TextFilter\bin\Debug\09.TextFilter.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\09.TextFilter\bin\Debug\09.TextFilter.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\09.TextFilter\obj\Debug\09.TextFilter.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\09.TextFilter\obj\Debug\09.TextFilter.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\09.TextFilter\obj\Debug\09.TextFilter.pdb

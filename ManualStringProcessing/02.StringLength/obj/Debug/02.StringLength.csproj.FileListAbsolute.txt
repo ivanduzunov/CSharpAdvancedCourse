@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\02.StringLength\bin\Debug\02.StringLength.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\02.StringLength\bin\Debug\02.StringLength.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\02.StringLength\bin\Debug\02.StringLength.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\02.StringLength\obj\Debug\02.StringLength.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\02.StringLength\obj\Debug\02.StringLength.pdb

@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\10.UnicodeCharacters\bin\Debug\10.UnicodeCharacters.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\10.UnicodeCharacters\obj\Debug\10.UnicodeCharacters.pdb

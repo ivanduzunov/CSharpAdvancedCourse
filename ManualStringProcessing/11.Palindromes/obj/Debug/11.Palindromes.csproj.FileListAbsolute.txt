@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\11.Palindromes\bin\Debug\11.Palindromes.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\11.Palindromes\bin\Debug\11.Palindromes.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\11.Palindromes\bin\Debug\11.Palindromes.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\11.Palindromes\obj\Debug\11.Palindromes.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\11.Palindromes\obj\Debug\11.Palindromes.exe
+c:\users\mihail\documents\visual studio 2017\Projects\ManualStringProcessing\11.Palindromes\obj\Debug\11.Palindromes.pdb
