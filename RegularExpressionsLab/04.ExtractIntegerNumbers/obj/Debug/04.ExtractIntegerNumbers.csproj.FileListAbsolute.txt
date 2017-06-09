@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.exe.config
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\04.ExtractIntegerNumbers\bin\Debug\04.ExtractIntegerNumbers.pdb
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\04.ExtractIntegerNumbers\obj\Debug\04.ExtractIntegerNumbers.pdb

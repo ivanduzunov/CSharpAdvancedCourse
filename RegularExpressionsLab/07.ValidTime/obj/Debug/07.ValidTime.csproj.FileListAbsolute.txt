@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\07.ValidTime\bin\Debug\07.ValidTime.exe.config
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\07.ValidTime\bin\Debug\07.ValidTime.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\07.ValidTime\bin\Debug\07.ValidTime.pdb
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\07.ValidTime\obj\Debug\07.ValidTime.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\07.ValidTime\obj\Debug\07.ValidTime.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\07.ValidTime\obj\Debug\07.ValidTime.pdb

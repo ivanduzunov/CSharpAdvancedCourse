@@ -5,17 +5,24 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace _02.VowelCount
+namespace _04.ExtractIntegerNumbers
 {
     class Program
     {
         static void Main(string[] args)
         {
             var text = Console.ReadLine();
-            var pattern = "[AEIOYUaeiyuo]";
+            var pattern = "[0-9]{1,20}";
             Regex regex = new Regex(pattern);
             int count = regex.Matches(text).Count;
-            Console.WriteLine($"Vowels: {count}");
+
+            if (count > 0)
+            {
+                foreach (var num in regex.Matches(text))
+                {
+                    Console.WriteLine(num);
+                }
+            }
         }
     }
 }

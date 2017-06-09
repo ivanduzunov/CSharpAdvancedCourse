@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe.config
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\06.ValidUsernames\bin\Debug\06.ValidUsernames.pdb
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\06.ValidUsernames\obj\Debug\06.ValidUsernames.pdb

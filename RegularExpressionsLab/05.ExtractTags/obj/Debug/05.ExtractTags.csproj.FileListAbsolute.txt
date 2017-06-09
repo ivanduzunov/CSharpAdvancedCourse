@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\05.ExtractTags\bin\Debug\05.ExtractTags.exe.config
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\05.ExtractTags\bin\Debug\05.ExtractTags.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\05.ExtractTags\bin\Debug\05.ExtractTags.pdb
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\05.ExtractTags\obj\Debug\05.ExtractTags.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\05.ExtractTags\obj\Debug\05.ExtractTags.exe
+C:\Users\Mihail\Documents\visual studio 2017\Projects\CSharpAdvancedCourse\RegularExpressionsLab\05.ExtractTags\obj\Debug\05.ExtractTags.pdb
