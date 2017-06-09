@@ -17,7 +17,9 @@ namespace StartUp
 
             while (subFolders.Count != 0)
             {
-
+                string currentPath = subFolders.Dequeue();
+               
+               
             }
 
         }
