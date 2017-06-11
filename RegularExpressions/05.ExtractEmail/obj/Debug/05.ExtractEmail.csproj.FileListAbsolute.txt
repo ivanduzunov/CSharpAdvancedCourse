@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\RegularExpressions\05.ExtractEmail\bin\Debug\05.ExtractEmail.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\RegularExpressions\05.ExtractEmail\bin\Debug\05.ExtractEmail.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RegularExpressions\05.ExtractEmail\bin\Debug\05.ExtractEmail.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\RegularExpressions\05.ExtractEmail\obj\Debug\05.ExtractEmail.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\RegularExpressions\05.ExtractEmail\obj\Debug\05.ExtractEmail.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RegularExpressions\05.ExtractEmail\obj\Debug\05.ExtractEmail.pdb

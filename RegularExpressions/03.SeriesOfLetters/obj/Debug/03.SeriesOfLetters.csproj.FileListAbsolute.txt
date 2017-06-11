@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.exe
+c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\03.SeriesOfLetters\bin\Debug\03.SeriesOfLetters.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.exe
+c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\03.SeriesOfLetters\obj\Debug\03.SeriesOfLetters.pdb
