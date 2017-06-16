@@ -1,0 +1,6 @@
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe.config
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\08.ExtractHyperlinks\bin\Debug\08.ExtractHyperlinks.pdb
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.exe
+C:\Users\Mihail\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\08.ExtractHyperlinks\obj\Debug\08.ExtractHyperlinks.pdb
