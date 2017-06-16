@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\01.SortEvenNumbers\bin\Debug\01.SortEvenNumbers.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\01.SortEvenNumbers\obj\Debug\01.SortEvenNumbers.pdb

@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\05.FilterByAge\bin\Debug\05.FilterByAge.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\05.FilterByAge\bin\Debug\05.FilterByAge.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\05.FilterByAge\bin\Debug\05.FilterByAge.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\05.FilterByAge\obj\Debug\05.FilterByAge.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\05.FilterByAge\obj\Debug\05.FilterByAge.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming Lab\05.FilterByAge\obj\Debug\05.FilterByAge.pdb
