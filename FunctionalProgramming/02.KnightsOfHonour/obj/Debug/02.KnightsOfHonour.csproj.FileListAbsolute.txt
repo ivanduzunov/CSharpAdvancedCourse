@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\02.KnightsOfHonour\bin\Debug\02.KnightsOfHonour.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\02.KnightsOfHonour\bin\Debug\02.KnightsOfHonour.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\02.KnightsOfHonour\bin\Debug\02.KnightsOfHonour.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\02.KnightsOfHonour\obj\Debug\02.KnightsOfHonour.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\02.KnightsOfHonour\obj\Debug\02.KnightsOfHonour.pdb

@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\06.ReverseAndExclude\bin\Debug\06.ReverseAndExclude.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\06.ReverseAndExclude\obj\Debug\06.ReverseAndExclude.pdb

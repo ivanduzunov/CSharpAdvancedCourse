@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\07. Predicate For Names\bin\Debug\_07.Predicate_For_Names.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\07. Predicate For Names\obj\Debug\07. Predicate For Names.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\07. Predicate For Names\obj\Debug\_07.Predicate_For_Names.pdb

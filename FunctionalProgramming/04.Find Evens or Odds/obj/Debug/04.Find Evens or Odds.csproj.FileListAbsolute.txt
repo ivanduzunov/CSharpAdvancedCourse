@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\04.Find Evens or Odds\bin\Debug\04.Find Evens or Odds.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\04.Find Evens or Odds\bin\Debug\04.Find Evens or Odds.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\04.Find Evens or Odds\bin\Debug\04.Find Evens or Odds.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\04.Find Evens or Odds\obj\Debug\04.Find Evens or Odds.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\04.Find Evens or Odds\obj\Debug\04.Find Evens or Odds.pdb

@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\03.CustomMinFunc\bin\Debug\03.CustomMinFunc.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\03.CustomMinFunc\bin\Debug\03.CustomMinFunc.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\03.CustomMinFunc\bin\Debug\03.CustomMinFunc.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\03.CustomMinFunc\obj\Debug\03.CustomMinFunc.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\03.CustomMinFunc\obj\Debug\03.CustomMinFunc.pdb

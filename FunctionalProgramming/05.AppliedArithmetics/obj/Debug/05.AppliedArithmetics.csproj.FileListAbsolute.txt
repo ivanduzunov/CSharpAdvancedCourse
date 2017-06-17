@@ -1,0 +1,6 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\05.AppliedArithmetics.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.csprojResolveAssemblyReference.cache
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\05.AppliedArithmetics.pdb

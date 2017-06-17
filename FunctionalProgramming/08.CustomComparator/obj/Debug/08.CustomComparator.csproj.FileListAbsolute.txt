@@ -1,0 +1,5 @@
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\08.CustomComparator\bin\Debug\08.CustomComparator.exe.config
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\08.CustomComparator\bin\Debug\08.CustomComparator.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\08.CustomComparator\bin\Debug\08.CustomComparator.pdb
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\08.CustomComparator\obj\Debug\08.CustomComparator.exe
+c:\users\mihail\documents\visual studio 2017\Projects\FunctionalProgramming\08.CustomComparator\obj\Debug\08.CustomComparator.pdb
