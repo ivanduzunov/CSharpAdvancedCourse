@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\02. Nature's Prophet\bin\Debug\_02.Nature_s_Prophet.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\02. Nature's Prophet\bin\Debug\_02.Nature_s_Prophet.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\02. Nature's Prophet\bin\Debug\_02.Nature_s_Prophet.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\02. Nature's Prophet\obj\Debug\02. Nature's Prophet.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\02. Nature's Prophet\obj\Debug\_02.Nature_s_Prophet.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\02. Nature's Prophet\obj\Debug\_02.Nature_s_Prophet.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\03. NMS\bin\Debug\_03.NMS.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\03. NMS\bin\Debug\_03.NMS.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\03. NMS\bin\Debug\_03.NMS.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\03. NMS\obj\Debug\03. NMS.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\03. NMS\obj\Debug\_03.NMS.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\03. NMS\obj\Debug\_03.NMS.pdb

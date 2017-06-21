@@ -1,0 +1,6 @@
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\04. Ashes of Roses\bin\Debug\_04.Ashes_of_Roses.exe.config
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\04. Ashes of Roses\bin\Debug\_04.Ashes_of_Roses.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\04. Ashes of Roses\bin\Debug\_04.Ashes_of_Roses.pdb
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\04. Ashes of Roses\obj\Debug\04. Ashes of Roses.csprojResolveAssemblyReference.cache
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\04. Ashes of Roses\obj\Debug\_04.Ashes_of_Roses.exe
+C:\Users\Mihail\documents\visual studio 2017\Projects\RetakeExam-22August2016\04. Ashes of Roses\obj\Debug\_04.Ashes_of_Roses.pdb
