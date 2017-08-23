@@ -8,20 +8,73 @@ namespace _07.BalancedParentheses
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            var input = Console.ReadLine().ToList();
-            string answer = null;
 
-            for (int i = 0; i < input.Count / 2; i++)
+            var input = Console.ReadLine().ToCharArray();
+
+            if (IsCorrect(input))
             {
-                if (b)
-                {
-                    
-                }
+                Console.WriteLine("YES");
+            }
+            else
+            {
+                Console.WriteLine("NO");
             }
 
+        }
 
+        public static bool IsCorrect(char[] sequence)
+        {
+            if (sequence.Length % 2 != 0 || sequence.Length == 0)
+            {
+                return false;
+            }
+            Stack<char> openBrackets = new Stack<char>();
+            char[] openingBrackets = new char[] { '{', '(', '[' };
+
+            for (int i = 0; i < sequence.Length; i++)
+            {
+                char currentBracket = sequence[i];
+
+                if (openingBrackets.Contains(currentBracket))
+                {
+                    openBrackets.Push(currentBracket);
+                }
+                else
+                {
+                    switch (currentBracket)
+                    {
+                        case ']':
+                            if (openBrackets.Pop() != '[')
+                            {
+                                return false;
+                                break;
+                            }
+                            break;
+
+
+
+
+                        case '}':
+                            if (openBrackets.Pop() != '{')
+                            {
+                                return false;
+                            }
+                            break;
+
+
+
+                        case ')':
+                            if (openBrackets.Pop() != '(')
+                            {
+                                return false;
+                            }
+                            break;
+                    }
+                }
+            }
+            return true;
         }
     }
 }

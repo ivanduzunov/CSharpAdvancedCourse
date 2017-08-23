@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReverseNumbers", "01.ReverseNumbers\01.ReverseNumbers.csproj", "{7471E97E-8FD1-4F58-B287-429C42E8C2B5}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SequenceWithQueue", "05.SequenceWithQueue\05.SequenceWithQueue.csproj", "{D168535D-DB1C-4932-BCF0-5E5D5CC4523F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.BalancedParentheses", "07.BalancedParentheses\07.BalancedParentheses.csproj", "{293114AC-8FA5-4D32-B4F7-22F5BB499605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. TruckTour", "06. TruckTour\06. TruckTour.csproj", "{7B37E3EF-5718-4D0A-A511-91F573FC755E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{293114AC-8FA5-4D32-B4F7-22F5BB499605}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{293114AC-8FA5-4D32-B4F7-22F5BB499605}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{293114AC-8FA5-4D32-B4F7-22F5BB499605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

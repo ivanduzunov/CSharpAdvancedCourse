@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\StacksAndQueues\06. TruckTour\bin\Debug\_06.TruckTour.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\StacksAndQueues\06. TruckTour\bin\Debug\_06.TruckTour.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\StacksAndQueues\06. TruckTour\bin\Debug\_06.TruckTour.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\StacksAndQueues\06. TruckTour\obj\Debug\06. TruckTour.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\StacksAndQueues\06. TruckTour\obj\Debug\_06.TruckTour.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\StacksAndQueues\06. TruckTour\obj\Debug\_06.TruckTour.pdb
