@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.BalancedParentheses", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. TruckTour", "06. TruckTour\06. TruckTour.csproj", "{7B37E3EF-5718-4D0A-A511-91F573FC755E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{3BDD0B7A-2A4B-401A-A721-1AE1EBBF93FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoisonousPlants", "PoisonousPlants\PoisonousPlants.csproj", "{30C1F7A2-4932-4B0F-BEC9-CD5612465E4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B37E3EF-5718-4D0A-A511-91F573FC755E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDD0B7A-2A4B-401A-A721-1AE1EBBF93FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDD0B7A-2A4B-401A-A721-1AE1EBBF93FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDD0B7A-2A4B-401A-A721-1AE1EBBF93FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BDD0B7A-2A4B-401A-A721-1AE1EBBF93FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C1F7A2-4932-4B0F-BEC9-CD5612465E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C1F7A2-4932-4B0F-BEC9-CD5612465E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C1F7A2-4932-4B0F-BEC9-CD5612465E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C1F7A2-4932-4B0F-BEC9-CD5612465E4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
