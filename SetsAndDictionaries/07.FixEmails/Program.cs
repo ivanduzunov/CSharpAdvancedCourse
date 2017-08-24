@@ -19,7 +19,7 @@ namespace _07.FixEmails
             {
                 var email = Console.ReadLine().Trim();
 
-                if (!email.Contains(".uk")&& !email.Contains(".us"))
+                if (!email.Contains(".uk") && !email.Contains(".us"))
                 {
                     dict.Add(name, email);
                 }
@@ -30,7 +30,7 @@ namespace _07.FixEmails
             foreach (var pair in dict)
             {
                 Console.WriteLine($"{pair.Key} -> {pair.Value}");
-            }           
+            }
         }
 
     }

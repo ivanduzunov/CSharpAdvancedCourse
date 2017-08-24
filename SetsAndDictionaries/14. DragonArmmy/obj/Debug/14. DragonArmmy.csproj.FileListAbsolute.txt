@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\SetsAndDictionaries\14. DragonArmmy\bin\Debug\_14.DragonArmmy.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\SetsAndDictionaries\14. DragonArmmy\bin\Debug\_14.DragonArmmy.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\SetsAndDictionaries\14. DragonArmmy\bin\Debug\_14.DragonArmmy.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\SetsAndDictionaries\14. DragonArmmy\obj\Debug\14. DragonArmmy.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\SetsAndDictionaries\14. DragonArmmy\obj\Debug\_14.DragonArmmy.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\SetsAndDictionaries\14. DragonArmmy\obj\Debug\_14.DragonArmmy.pdb

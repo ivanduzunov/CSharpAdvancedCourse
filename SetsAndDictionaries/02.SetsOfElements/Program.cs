@@ -27,7 +27,7 @@ namespace _02.SetsOfElements
                 second.Add(element);
             }
 
-            List<int> result = new List<int>();
+            var result = new HashSet<int>();
 
             if (first.Count > second.Count)
             {
@@ -50,7 +50,6 @@ namespace _02.SetsOfElements
                 }
             }
 
-            result.Distinct();
             Console.WriteLine($"{string.Join(" ", result)}");
         }
     }
