@@ -72,12 +72,12 @@ namespace _06.TargetPractice
                 }
                 counterRow++;
             }
-
         }
 
         public static void CleanAlgoritm(char[,] matrix, int n, int therow, int column, int radius)
         {
             for (int row = 0; row < matrix.GetLength(0); row++)
+            {
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
                     bool isWithinRange = Math.Sqrt(Math.Pow(Math.Abs(therow - row), 2)
@@ -85,7 +85,7 @@ namespace _06.TargetPractice
                     if (isWithinRange)
                         matrix[row, col] = ' ';
                 }
-
+            }             
         }
 
         public static void FallingDown(char[,] matrix)

@@ -27,21 +27,19 @@ namespace _03.SquaresInMatrix
 
             int equalSells = 0;
 
-            for (int i = 1; i < matrix.GetLength(0); i++)
+            for (int i = 0; i < matrix.GetLength(0) - 1; i++)
             {
-                for (int j = 1; j < matrix.GetLength(1); j++)
+                for (int j = 0; j < matrix.GetLength(1) - 1; j++)
                 {
-
-
-                    if (matrix[i, j].Equals(matrix[i, j - 1]) && matrix[i, j].Equals(matrix[i - 1, j]) && matrix[i, j].Equals(matrix[i - 1, j - 1]))
+                    if (matrix[i, j].Equals(matrix[i, j + 1])
+                        && matrix[i, j].Equals(matrix[i + 1, j])
+                        && matrix[i, j].Equals(matrix[i + 1, j + 1]))
                     {
                         equalSells++;
                     }
                 }
             }
-
             Console.WriteLine(equalSells);
-
         }
     }
 }

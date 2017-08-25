@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Matrices\10. TheHeiganDance\bin\Debug\_10.TheHeiganDance.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Matrices\10. TheHeiganDance\bin\Debug\_10.TheHeiganDance.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Matrices\10. TheHeiganDance\bin\Debug\_10.TheHeiganDance.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Matrices\10. TheHeiganDance\obj\Debug\10. TheHeiganDance.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Matrices\10. TheHeiganDance\obj\Debug\_10.TheHeiganDance.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Matrices\10. TheHeiganDance\obj\Debug\_10.TheHeiganDance.pdb

@@ -63,7 +63,7 @@ namespace _04.MaximalSum
             {
                 for (int i = 0; i < resultMatrix.GetLength(1); i++)
                 {
-                    Console.Write(resultMatrix[j,i] + " ");
+                    Console.Write(resultMatrix[j, i] + " ");
                 }
                 Console.WriteLine();
             }

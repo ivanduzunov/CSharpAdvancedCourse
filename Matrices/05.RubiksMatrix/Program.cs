@@ -14,14 +14,14 @@ namespace _05.RubiksMatrix
             int r = int.Parse(dimentions[0]);
             int c = int.Parse(dimentions[1]);
             int[,] originalMatrix = new int[r, c];
-            int counter = 1;
+            int counter = 0;
 
             for (int i = 0; i < originalMatrix.GetLength(0); i++)
             {
                 for (int j = 0; j < originalMatrix.GetLength(1); j++)
                 {
-                    originalMatrix[i, j] = counter;
                     counter++;
+                    originalMatrix[i, j] = counter;
                 }
             }
 
@@ -64,7 +64,7 @@ namespace _05.RubiksMatrix
                     {
                         queue.Enqueue(matrix[j, index]);
                     }
-                    for (int j = 0; j < rolls%matrix.Length; j++)
+                    for (int j = 0; j < rolls % matrix.Length; j++)
                     {
                         var num = queue.Dequeue();
                         queue.Enqueue(num);
@@ -82,7 +82,7 @@ namespace _05.RubiksMatrix
                     {
                         queue.Enqueue(matrix[index, j]);
                     }
-                    for (int j = 0; j < rolls%matrix.Length; j++)
+                    for (int j = 0; j < rolls % matrix.Length; j++)
                     {
                         var num = queue.Dequeue();
                         queue.Enqueue(num);

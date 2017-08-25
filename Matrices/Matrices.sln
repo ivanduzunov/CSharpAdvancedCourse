@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MatrixOfPalindromes", "01.MatrixOfPalindromes\01.MatrixOfPalindromes.csproj", "{6DEBA95D-A37B-4F34-B057-A217F180E75C}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.RadioactiveBunnies", "08.RadioactiveBunnies\08.RadioactiveBunnies.csproj", "{E5D06CDC-0E10-4455-AECB-9E6B60999F6B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Crossfire", "09.Crossfire\09.Crossfire.csproj", "{4FA401F4-756D-44BB-ACA1-5A3DEFAEDBC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. TheHeiganDance", "10. TheHeiganDance\10. TheHeiganDance.csproj", "{70437180-432E-469F-8745-7DDCFDFBB7F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{4FA401F4-756D-44BB-ACA1-5A3DEFAEDBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FA401F4-756D-44BB-ACA1-5A3DEFAEDBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FA401F4-756D-44BB-ACA1-5A3DEFAEDBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70437180-432E-469F-8745-7DDCFDFBB7F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70437180-432E-469F-8745-7DDCFDFBB7F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70437180-432E-469F-8745-7DDCFDFBB7F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70437180-432E-469F-8745-7DDCFDFBB7F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
