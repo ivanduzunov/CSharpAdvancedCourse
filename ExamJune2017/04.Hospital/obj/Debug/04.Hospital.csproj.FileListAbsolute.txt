@@ -1,0 +1,5 @@
+c:\users\ivan\documents\visual studio 2017\Projects\ExamJune2017\04.Hospital\bin\Debug\04.Hospital.exe.config
+c:\users\ivan\documents\visual studio 2017\Projects\ExamJune2017\04.Hospital\bin\Debug\04.Hospital.exe
+c:\users\ivan\documents\visual studio 2017\Projects\ExamJune2017\04.Hospital\bin\Debug\04.Hospital.pdb
+c:\users\ivan\documents\visual studio 2017\Projects\ExamJune2017\04.Hospital\obj\Debug\04.Hospital.exe
+c:\users\ivan\documents\visual studio 2017\Projects\ExamJune2017\04.Hospital\obj\Debug\04.Hospital.pdb
