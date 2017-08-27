@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\04. Replaceatag\bin\Debug\_04.Replaceatag.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\04. Replaceatag\bin\Debug\_04.Replaceatag.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\04. Replaceatag\bin\Debug\_04.Replaceatag.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\04. Replaceatag\obj\Debug\04. Replaceatag.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\04. Replaceatag\obj\Debug\_04.Replaceatag.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\04. Replaceatag\obj\Debug\_04.Replaceatag.pdb

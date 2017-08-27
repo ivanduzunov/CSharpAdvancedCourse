@@ -3,3 +3,9 @@ c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\02.Matc
 c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
 c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
 c:\users\mihail\documents\visual studio 2017\Projects\RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\02.MatchPhoneNumber\bin\Debug\02.MatchPhoneNumber.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\RegularExpressions\02.MatchPhoneNumber\obj\Debug\02.MatchPhoneNumber.pdb

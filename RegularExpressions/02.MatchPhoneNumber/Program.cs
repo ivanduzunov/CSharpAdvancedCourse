@@ -11,7 +11,7 @@ namespace _02.MatchPhoneNumber
     {
         static void Main(string[] args)
         {
-            var pattern = "^(\\+359)( |-)(2)\\2([0-9]{3})\\2([0-9]{4})$";
+            var pattern = "^\\+359( |-)(2)\\1([0-9]{3})\\1([0-9]{4})$";
             Regex regex = new Regex(pattern);
 
             var input = Console.ReadLine();
