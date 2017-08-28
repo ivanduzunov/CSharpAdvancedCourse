@@ -14,35 +14,25 @@ namespace _08.ExtractHyperlinks //83/100
         {
             var input = Console.ReadLine();
             StringBuilder sb = new StringBuilder();
-            while (input != "END")
+            while ((input = Console.ReadLine()) != "END")
             {
-                sb.Append(input).Append(" ");
-                input = Console.ReadLine();
+                sb.Append(" ").Append(input);
             }
 
+            string pattern = @"<a\s+(?:[^>]+\s+)?href\s*=\s*(?:'([^']*)'|""([^""]*)""|([^\s>]+))[^>]*>";
+            Regex rgx = new Regex(pattern);
 
+            MatchCollection collection = rgx.Matches(sb.ToString());
 
-            string pattern = @"<a\s+[^>]*?href\s*=(.*?)>.*?<\s*\/\s*a\s*>";
-
-            MatchCollection collection = Regex.Matches(sb.ToString(), pattern);
-
-            foreach (Match match in collection)
+            foreach (Match hyperlink in collection)
             {
-                var notClean = (match.Groups[1].Value.ToString().Trim());
-
-                if (notClean[0] == '"')
+                for (int i = 1; i <= 3; i++)
                 {
-                    Console.WriteLine(notClean.Split(new[] { '"' }, StringSplitOptions.RemoveEmptyEntries).First());
+                    if (hyperlink.Groups[i].Length > 0)
+                    {
+                        Console.WriteLine(hyperlink.Groups[i]);
+                    }
                 }
-                else if (notClean[0] == '\'')
-                {                  
-                    Console.WriteLine(notClean.Split(new[] { '\'' }, StringSplitOptions.RemoveEmptyEntries).First());
-                }
-                else if (notClean[0] == ' ')
-                {
-                    Console.WriteLine(notClean.Split(new[] { ' ' }, StringSplitOptions.RemoveEmptyEntries).First());
-                }
-
             }
         }
     }
