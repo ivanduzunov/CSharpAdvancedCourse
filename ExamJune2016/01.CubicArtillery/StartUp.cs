@@ -10,81 +10,26 @@ namespace _01.CubicArtillery
     {
         public static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            var input = string.Empty;
-            List<Bunker> bunkers = new List<Bunker>();
+            var bunkers = new Queue<string>();
+            var weapons = new Queue<int>();
+            int freeCapacity = int.Parse(Console.ReadLine());
+            string input = string.Empty;
 
             while ((input = Console.ReadLine()) != "Bunker Revision")
             {
-                var tokens = input.Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
-                for (int i = 0; i < tokens.Length; i++)
+                string[] tokens = input.Split(new [] { " " }, StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (var element in tokens)
                 {
-                    if (!char.IsDigit(tokens[i][0]))
+                    if (!char.IsDigit(element[0]))
                     {
-                        bunkers.Add(new Bunker(tokens[i], n));
+                        bunkers.Enqueue(element);
                     }
                     else
                     {
-                        int currentWeapon = int.Parse(tokens[i]);
-                        if (bunkers[0].FreeSpace < currentWeapon)
-                        {
-                            for (int j = 1; j < bunkers.Count; j++)
-                            {
-                                if (bunkers[j].FreeSpace >= currentWeapon)
-                                {
-                                    bunkers[j].Weapons.Add(currentWeapon);
-                                    break;
-                                }
-                            }
-                        }
-                        else
-                        {
-                            bunkers[0].Weapons.Add(currentWeapon);
-                        }
-
+                        
                     }
-                    if (bunkers[0].IsFull)
-                    {
-                        Console.WriteLine($"{bunkers[0].Name} -> {string.Join(", ", bunkers[0].Weapons)}");
-                        bunkers.RemoveAt(0);
-                    }
-
                 }
-                
-            }
-
-        }
-    }
-
-    class Bunker
-    {
-        public Bunker(string name, int maxCapacity)
-        {
-            Name = name;
-            Weapons = new List<int>();
-            MaxCapacity = maxCapacity;
-        }
-
-        public string Name { get; set; }
-        public List<int> Weapons { get; set; }
-        public int MaxCapacity { get; set; }
-        public bool IsFull
-        {
-
-            get => this.MaxCapacity == this.Weapons.Sum();
-            private set
-            {
-                var b = this.MaxCapacity == this.Weapons.Sum();
-                b = value;
-            }
-        }
-        public int FreeSpace
-        {
-            get => this.MaxCapacity - this.Weapons.Sum();
-            set
-            {
-                var b = this.MaxCapacity - this.Weapons.Sum();
-                b = value;
             }
         }
     }
