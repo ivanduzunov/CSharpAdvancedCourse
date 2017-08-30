@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _03.Number_Wars
 {
@@ -10,17 +8,15 @@ namespace _03.Number_Wars
     {
         public static void Main(string[] args)
         {
-            var firstPlayerInput = Console.ReadLine().Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
-            var secondPlayerInput = Console.ReadLine().Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries)
-                .ToArray();
+            var firstPlayerInput = Console.ReadLine().Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
+            var secondPlayerInput = Console.ReadLine().Split(new[] { " " }, StringSplitOptions.RemoveEmptyEntries);
             Queue<Card> firstPlayerCards = AddPlayerCards(firstPlayerInput);
             Queue<Card> secondPlayerCards = AddPlayerCards(secondPlayerInput);
             bool gameOver = false;
             bool IsDraw = false;
             int turns = 0;
             string playerWinner = string.Empty;
-            var deck = new List<Card>();
+            var deck = new HashSet<Card>();
 
             while (gameOver == false)
             {
@@ -90,8 +86,6 @@ namespace _03.Number_Wars
                         }
 
 
-
-
                         int firstPlayerSum = fpCards.Sum(c => c.LetterValue);
                         int secondPlayerSum = spCards.Sum(c => c.LetterValue);
 
@@ -158,7 +152,7 @@ namespace _03.Number_Wars
         }
 
         private static void TransferCardsFromDeckToPerson(Queue<Card> firstPlayerCards,
-            List<Card> deck)
+            HashSet<Card> deck)
         {
             foreach (var card in deck.OrderByDescending(c => c.Number).ThenByDescending(c => c.LetterValue))
             {
@@ -174,18 +168,8 @@ namespace _03.Number_Wars
 
             foreach (var cardInput in playerInput)
             {
-                int index = 0;
-                for (int i = 0; i < cardInput.Length; i++)
-                {
-                    if (!char.IsDigit(cardInput[i]))
-                    {
-                        index = i;
-                        break;
-                    }
-                }
-
-                int number = int.Parse(cardInput.Substring(0, index));
-                char letter = char.Parse(cardInput[index].ToString());
+                int number = int.Parse(cardInput.Substring(0, cardInput.Length - 1));
+                char letter = char.Parse(cardInput[cardInput.Length - 1].ToString());
 
                 cards.Enqueue(new Card(number, letter));
             }
