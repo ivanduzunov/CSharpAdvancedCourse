@@ -12,44 +12,77 @@ namespace _03.JediCode_X
         public static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
-            List<string> messages = new List<string>();
-            List<string> names = new List<string>();
             StringBuilder sb = new StringBuilder();
 
-            sb.Append(" ");
             for (int i = 0; i < n; i++)
             {
-                var input = Console.ReadLine();
-                sb.Append(input);
+                sb.Append(Console.ReadLine());
             }
-            sb.Append(" ");
-            var text = sb.ToString();
 
-            //extract all names that consist of English alphabet letters,
-            //with length equal to the length of the pattern given on the first line,
-            //    and prefix the given pattern itself
             var namePattern = Console.ReadLine().Trim();
             string namePatternLenght = "{" + namePattern.Length + "}";
-            Regex nameRgx = new Regex($@"{namePattern.Trim()}([a-zA-Z]{namePatternLenght})[^a-zA-Z]");
+            Regex nameRgx = new Regex($@"{namePattern.Trim()}([a-zA-Z]{namePatternLenght})(?![A-Za-z])");
 
-            //extract all messages which consist of English alphabet letters and digits,
-            //with length equal to the length of the pattern given on the second line,
-            //    and prefix the given pattern itself
             var messagePattern = Console.ReadLine().Trim();
             string messagePatternLenght = "{" + messagePattern.Length + "}";
-            Regex messageRgx = new Regex($@"{messagePattern.Trim()}([a-zA-Z]{messagePatternLenght})[^a-zA-Z]");
+            Regex messageRgx = new Regex($@"{messagePattern.Trim()}([a-zA-Z0-9]{messagePatternLenght})(?![A-Za-z0-9])");
 
-            MatchCollection nameMatches = nameRgx.Matches(text);
-            MatchCollection messageMatches = messageRgx.Matches(text);
+            MatchCollection nameMatches = nameRgx.Matches(sb.ToString());
+            MatchCollection messageMatches = messageRgx.Matches(sb.ToString());
 
-            foreach (Match match in nameMatches)
+            var indexes = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            string output = CreateOutput(nameMatches, messageMatches, indexes);
+            Console.WriteLine(output);
+        }
+
+        private static string CreateOutput(MatchCollection nameMatches, MatchCollection messageMatches, int[] indexes)
+        {
+            Queue<int> indexesQueue = new Queue<int>();
+            Queue<string> namesQueue = new Queue<string>();
+            StringBuilder sb = new StringBuilder();
+
+            for (int i = 0; i < indexes.Length; i++)
             {
-                Console.WriteLine(match.Groups[1].Value);
+                indexesQueue.Enqueue(indexes[i]);
             }
-            foreach (Match match in messageMatches)
+            for (int i = 0; i < nameMatches.Count; i++)
             {
-                Console.WriteLine(match.Groups[1].Value);
+                namesQueue.Enqueue(nameMatches[i].Groups[1].Value);
             }
+
+            while (true)
+            {
+                if (namesQueue.Count == 0)
+                {
+                    break;
+                }
+
+                var name = namesQueue.Dequeue();
+
+                if (indexesQueue.Count == 0)
+                {
+                    break;
+                }
+                else
+                {
+                    while (true)
+                    {
+                        if (indexesQueue.Count == 0)
+                        {
+                            break;
+                        }
+                        int index = indexesQueue.Dequeue();
+
+                        if (index - 1 < messageMatches.Count && index > 0)
+                        {
+                            sb.AppendLine($"{name} - {messageMatches[index - 1].Groups[1].Value}");
+                            break;
+                        }
+                    }
+
+                }
+            }
+            return sb.ToString().Trim();
         }
     }
 }
