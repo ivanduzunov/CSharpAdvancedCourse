@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\03.JediCode-X\bin\Debug\03.JediCode-X.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\03.JediCode-X\bin\Debug\03.JediCode-X.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\03.JediCode-X\bin\Debug\03.JediCode-X.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\03.JediCode-X\obj\Debug\03.JediCode-X.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\03.JediCode-X\obj\Debug\03.JediCode-X.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\03.JediCode-X\obj\Debug\03.JediCode-X.pdb
