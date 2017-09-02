@@ -24,15 +24,17 @@ namespace _04.JediDreams
 
             for (int i = 0; i < splittedText.Length; i++)
             {
-                MatchCollection matches = Regex.Matches(splittedText[i], @"([A-Z][A-Za-z0-9]+)(?=\()");
-
-                Method method = new Method(matches[0].ToString());
-
-                for (int j = 1; j < matches.Count; j++)
+                MatchCollection matches = Regex.Matches(splittedText[i], @"([A-Za-z]+)(?=\(.*\))");
+                if (matches.Count > 0)
                 {
-                    method.Methods.Add(matches[j].ToString());
+                    Method method = new Method(matches[0].ToString());
+
+                    for (int j = 1; j < matches.Count; j++)
+                    {
+                        method.Methods.Add(matches[j].ToString());
+                    }
+                    methods.Add(method);
                 }
-                methods.Add(method);
             }
 
             foreach (var method in methods.OrderByDescending(m => m.Methods.Count).ThenBy(m => m.Name))
@@ -57,7 +59,7 @@ namespace _04.JediDreams
         public Method(string name)
         {
             this.Name = name;
-            Methods = new List<string>();
+            this.Methods = new List<string>();
         }
 
         public string Name { get; set; }
