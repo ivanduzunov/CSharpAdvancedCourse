@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\04.JediDreams\bin\Debug\04.JediDreams.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\04.JediDreams\bin\Debug\04.JediDreams.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\04.JediDreams\bin\Debug\04.JediDreams.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\04.JediDreams\obj\Debug\04.JediDreams.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\04.JediDreams\obj\Debug\04.JediDreams.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\Exam13June2016\04.JediDreams\obj\Debug\04.JediDreams.pdb
