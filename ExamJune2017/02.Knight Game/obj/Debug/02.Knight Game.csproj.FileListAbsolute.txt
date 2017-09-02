@@ -1,0 +1,6 @@
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\ExamJune2017\02.Knight Game\bin\Debug\02.Knight Game.exe.config
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\ExamJune2017\02.Knight Game\bin\Debug\02.Knight Game.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\ExamJune2017\02.Knight Game\bin\Debug\02.Knight Game.pdb
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\ExamJune2017\02.Knight Game\obj\Debug\02.Knight Game.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\ExamJune2017\02.Knight Game\obj\Debug\02.Knight Game.exe
+C:\Users\Ivan\Documents\Visual Studio 2017\Projects\CSharpAdvancedCourse\ExamJune2017\02.Knight Game\obj\Debug\02.Knight Game.pdb
